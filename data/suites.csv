@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Nov 09 13:11:50 UTC 2022","Wed Nov 09 13:11:50 UTC 2022","24","","Tests for POST method","","","","Should create new user with valid header",""
+"passed","Wed Nov 09 13:11:48 UTC 2022","Wed Nov 09 13:11:48 UTC 2022","27","","Tests for GET method","","","","Should get an object and check property",""
+"passed","Wed Nov 09 13:11:54 UTC 2022","Wed Nov 09 13:11:54 UTC 2022","54","","Test for DELETE method","","","","Should delete user ",""
+"passed","Wed Nov 09 13:11:52 UTC 2022","Wed Nov 09 13:11:52 UTC 2022","51","","Test for PUT method","","","","Should update user info ",""
+"passed","Wed Nov 09 13:11:48 UTC 2022","Wed Nov 09 13:11:48 UTC 2022","311","","Tests for GET method","","","","Should get an object and check statuscode",""
+"passed","Wed Nov 09 13:11:50 UTC 2022","Wed Nov 09 13:11:50 UTC 2022","44","","Tests for POST method","","","","Should create new user",""
